@@ -1,0 +1,25 @@
+#hr {
+    position: fixed;
+    height: 15%;
+    width: 100%;
+    z-index: 100;
+}
+
+body {
+    margin: 0%;
+}
+
+.bl {
+    font: 16px;
+    padding-left: 3%;
+    margin-right: 0%;
+    
+}
+
+
+#ft {
+    background-color: rgb(240, 245, 245);
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
